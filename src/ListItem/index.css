@@ -1,0 +1,34 @@
+.itemimage {
+  height: 140px;
+  width: 180px;
+  margin-right: 15px;
+}
+.imagecontainer {
+  display: flex;
+}
+.itemmain {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 180px;
+  width: 100%;
+  margin: 10px;
+  padding-right: 50px;
+}
+.para1 {
+  color: #ffffff;
+  font-size: 22px;
+}
+.para2 {
+  color: #3b82f6;
+  font-size: 22px;
+}
+.btncontainer{
+  display: flex;
+}
+.btn{
+  background-color: transparent;
+  font-size: 25px;
+  color: #ffffff;
+  
+}
